@@ -14,6 +14,8 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+8/10: Today, I did some research on travel, the space industry, scholarships, and so on. I also learned about the learner series, including S-learner, X-learner, DR-learner, and others. Actually, from X-learner onward, understanding the concepts became very difficult, so I want to learn them little by little.  
+
 8/9: I continued analyzing Criteo data.
 8/8: I checked some parts of codes.  
 8/7: today I just checked some pages of textbook.  
