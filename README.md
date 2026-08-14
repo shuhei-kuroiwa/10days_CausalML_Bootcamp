@@ -15,7 +15,6 @@ Studying causal ML and econometrics toward data-driven decision making in busine
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
 8/13: today I took a whole day rest.  
-
 8/12: I first read the abstract of a paper by Narita Yusuke. He is very famous in Japan, and I have known about him since high school, so this experience felt unusual. His research, especially on bandit models and causal inference, was very interesting, and I want to understand it more deeply someday. Other than that, I continued writing my Criteo paper and read the original paper about the dataset. I found that the original paper mainly used a logit model, which is different from my method selection, so it seems that I do not need to change my research question.  
 8/11: I read a document titled “論文を書くためのtips集（学部上級-修士向け）” by Yamasaki Junichi and learned basic ideas for writing a paper. Moreover, I continued studying meta-learner concepts. Understanding how to use propensity scores was difficult, but I think the basic problem awareness should stay consistent. Based on that, I will continue learning while doing research.  
 8/10: Today, I did some research on travel, the space industry, scholarships, and so on. I also learned about the learner series, including S-learner, X-learner, DR-learner, and others. Actually, from X-learner onward, understanding the concepts became very difficult, so I want to learn them little by little.  
