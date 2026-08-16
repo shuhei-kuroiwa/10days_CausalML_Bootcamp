@@ -15,7 +15,6 @@ Studying causal ML and econometrics toward data-driven decision making in busine
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
 8/15: Today I just checked some codes.  
-
 8/14: Today, I continued working on my paper and read two papers on the Criteo dataset. One was from Criteo AI Lab, and the other was probably written by an independent researcher. The second paper’s method and overall quality were very high. Both papers were interesting, and the second paper’s research question was quite similar to mine. Therefore, I need to update my research question from a method-comparison focus to a strategic robustness-check focus.  
 8/13: today I took a whole day rest.  
 8/12: I first read the abstract of a paper by Narita Yusuke. He is very famous in Japan, and I have known about him since high school, so this experience felt unusual. His research, especially on bandit models and causal inference, was very interesting, and I want to understand it more deeply someday. Other than that, I continued writing my Criteo paper and read the original paper about the dataset. I found that the original paper mainly used a logit model, which is different from my method selection, so it seems that I do not need to change my research question.  
