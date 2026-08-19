@@ -15,7 +15,6 @@ Studying causal ML and econometrics toward data-driven decision making in busine
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
 8/18: today I just read some pages of text.  
-
 8/17: today I finally got home and took a rest.  
 8/16: today I rechecked my RQ and considered how I should finish my paper.  
 8/15: Today I just checked some codes.  
