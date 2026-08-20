@@ -14,6 +14,11 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+8/19: I restarted conducting a sensitivity analysis on the dataset. I mainly used GRF, tried other meta-learners, and changed some hyperparameters. Today, I learned that using different random seeds can also be part of a sensitivity analysis.  
+
+8/18: today I just read some pages of text.  
+8/17: today I finally got home and took a rest.  
+8/16: today I rechecked my RQ and considered how I should finish my paper.  
 8/15: Today I just checked some codes.  
 8/14: Today, I continued working on my paper and read two papers on the Criteo dataset. One was from Criteo AI Lab, and the other was probably written by an independent researcher. The second paper’s method and overall quality were very high. Both papers were interesting, and the second paper’s research question was quite similar to mine. Therefore, I need to update my research question from a method-comparison focus to a strategic robustness-check focus.  
 8/13: today I took a whole day rest.  
