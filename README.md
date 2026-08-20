@@ -15,7 +15,6 @@ Studying causal ML and econometrics toward data-driven decision making in busine
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
 8/19: I restarted conducting a sensitivity analysis on the dataset. I mainly used GRF, tried other meta-learners, and changed some hyperparameters. Today, I learned that using different random seeds can also be part of a sensitivity analysis.  
-
 8/18: today I just read some pages of text.  
 8/17: today I finally got home and took a rest.  
 8/16: today I rechecked my RQ and considered how I should finish my paper.  
