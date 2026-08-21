@@ -14,6 +14,8 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+8/21: I worked at my internship as usual and finished this phase of improving the authentication onboarding document. I also continued checking the received data, but it was tough to understand all the analysis definitions. Still, I tried to read them carefully and probably understood them well enough at this point.　I really need to take time to improve my research planning document. Fortunately, through my internship and research, my understanding of econometrics has gradually become clearer, so I think I will be able to handle it.  
+
 8/20: I worked at my internship for the first time in two weeks, started a new analysis task, and struggled with the environment setup. It was my first time using SQL, so I need to get used to its grammar. I also could not use JupyterLite as usual, so today’s burdens were not statistical problems but technical ones. I also checked which documents are needed to apply for graduate school, and I want to prepare them soon.  
 8/19: I restarted conducting a sensitivity analysis on the dataset. I mainly used GRF, tried other meta-learners, and changed some hyperparameters. Today, I learned that using different random seeds can also be part of a sensitivity analysis.  
 8/18: today I just read some pages of text.  
