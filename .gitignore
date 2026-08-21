@@ -6,3 +6,8 @@
 
 # Specific generated dataset
 1.implementations/steam_games_cleaned.csv
+
+# CRITEO experiment artifacts (large/reproducible; keep summary CSVs tracked)
+2.results/criteo_hte/*.joblib
+2.results/criteo_hte/*.parquet
+2.results/criteo_hte/*.npz
