@@ -15,7 +15,6 @@ Studying causal ML and econometrics toward data-driven decision making in busine
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
 8/29 today I researched some scholarship for grad school.  
-
 8/28: I took a whole day rest.  
 8/27: I worked at my internship and moved on to the second treatment analysis, which is about product relocation and signage ads. I was going to reuse the model from the first treatment, but the data logic was a little different, so I could not. In the end, I rewrote the validation code and tried some hyperparameter research. I also cleaned up my room today, so I could not spend time on my research.  
 8/26: I worked at my internship and conducted a placebo analysis. I tried changing some hyperparameters to improve the model. First, I changed the matching period and tried different values of top-k, which means how many individuals should be used as donors to make a prediction. I set several valid parameters, and the model performed well. From tomorrow, I will try the analysis with real data.　After that, I continued working on my research. I reviewed the difference between GRF and DML. Since I use DML-GRF, it was a little difficult to understand. However, from the basic perspective, DML is mainly used for ATE, while GRF is used for CATE. Therefore, their purposes are different. The method itself was difficult, but when I thought about it from the purpose of each method, it became easier to understand. Hopefully, tomorrow I can restart writing my paper.  
