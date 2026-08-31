@@ -14,6 +14,8 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+8/31: Today, I checked my code and the Qini score of my model. To compare Qini scores between models, I made a table, but first of all, the Qini values were too small. I also found that the Qini value did not change much when the sample size increased from 1 million to 2 million, compared with the change from 300 thousand to 1 million. The data sensitivity seems to become weaker once the sample size exceeds 1 million, although this is just a benchmark result.  
+
 8/30: Today, I checked my code and learned the difference between DPL and MMM. Recently, some people researching MMM joined our internship company, so I wanted to understand it. MMM is mainly about overall optimization across departments, while DPL is about policy learning. In particular, DPL focuses on how companies should change their treatment decisions while considering the effects of other treatments. Therefore, I felt that I want to learn DPL. However, because of the lack of data, I am not sure whether I can learn it with actual data or not.  
 8/29 today I researched some scholarship for grad school.  
 8/28: I took a whole day rest.  
