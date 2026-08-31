@@ -15,7 +15,6 @@ Studying causal ML and econometrics toward data-driven decision making in busine
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
 8/30: Today, I checked my code and learned the difference between DPL and MMM. Recently, some people researching MMM joined our internship company, so I wanted to understand it. MMM is mainly about overall optimization across departments, while DPL is about policy learning. In particular, DPL focuses on how companies should change their treatment decisions while considering the effects of other treatments. Therefore, I felt that I want to learn DPL. However, because of the lack of data, I am not sure whether I can learn it with actual data or not.  
-
 8/29 today I researched some scholarship for grad school.  
 8/28: I took a whole day rest.  
 8/27: I worked at my internship and moved on to the second treatment analysis, which is about product relocation and signage ads. I was going to reuse the model from the first treatment, but the data logic was a little different, so I could not. In the end, I rewrote the validation code and tried some hyperparameter research. I also cleaned up my room today, so I could not spend time on my research.  
