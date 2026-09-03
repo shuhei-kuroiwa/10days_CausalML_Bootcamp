@@ -14,6 +14,8 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+9/3: I worked at my internship and finished the first treatment analysis. It was a difficult choice because the number of treatments is seven, and I need to standardize the parameters as much as possible. However, my supervisor has a meeting using this document, so I finished it quickly.  
+
 9/2: I worked at my internship as usual, reran the models, and started summarizing the results of Treatment 1. However, the required results were stricter than I expected, so it took a lot of time. I just want to finish this summarizing task tomorrow.  
 9/1: I worked at my internship and continued the analysis. However, along the way, I found that the ID requirement in my SQL query was wrong, so I rewrote it and reran all the models. It was really annoying, and I felt that I really should check the experimental design more carefully. Aside from that, I finished researching the curriculum for the next semester at university.  
 8/31: Today, I checked my code and the Qini score of my model. To compare Qini scores between models, I made a table, but first of all, the Qini values were too small. I also found that the Qini value did not change much when the sample size increased from 1 million to 2 million, compared with the change from 300 thousand to 1 million. The data sensitivity seems to become weaker once the sample size exceeds 1 million, although this is just a benchmark result.  
