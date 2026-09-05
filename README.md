@@ -15,7 +15,6 @@ Studying causal ML and econometrics toward data-driven decision making in busine
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
 9/4: I traveled today and continued researching classes for next semester.  
-
 9/3: I worked at my internship and finished the first treatment analysis. It was a difficult choice because the number of treatments is seven, and I need to standardize the parameters as much as possible. However, my supervisor has a meeting using this document, so I finished it quickly.  
 9/2: I worked at my internship as usual, reran the models, and started summarizing the results of Treatment 1. However, the required results were stricter than I expected, so it took a lot of time. I just want to finish this summarizing task tomorrow.  
 9/1: I worked at my internship and continued the analysis. However, along the way, I found that the ID requirement in my SQL query was wrong, so I rewrote it and reran all the models. It was really annoying, and I felt that I really should check the experimental design more carefully. Aside from that, I finished researching the curriculum for the next semester at university.  
